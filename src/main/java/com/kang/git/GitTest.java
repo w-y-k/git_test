@@ -7,6 +7,9 @@ public class GitTest {
         System.out.println("hello Git! ");
         // 增加一行
         System.out.println("hello Git! ");
+        System.out.println("hello Git! 3");
+
+
 
     }
 }
