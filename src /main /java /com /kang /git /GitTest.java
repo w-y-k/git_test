@@ -12,6 +12,8 @@ public class GitTest {
         System.out.println("hello Git! master test!");
 
         System.out.println("hello Git! hot-fix test!");
+        
+        System.out.println("分享项目到 远程库！");
 
 
 
